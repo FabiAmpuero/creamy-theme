@@ -1,8 +1,5 @@
-@media (max-width:549px) {
-    .hero {
-        font-size: 30px;
-        padding-top: 100px;
-    }
+@media (max-width:550px) {
+    
     .contenedor .btn {
         margin-bottom: 80px;
     }
@@ -10,6 +7,12 @@
 @media (min-width:550px) {
     .contenedor {
         width: 500px;
+    }
+}
+@media screen and (max-width:360px) {
+    .logo {
+        font-size: 13px;
+        margin-top: 5px;
     }
 }
 @media (min-width: 768px) {
